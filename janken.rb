@@ -1,5 +1,4 @@
-aaaaaaaaaaa
-test test
+#this file is test.
 
 hand1 = Random.rand(3)
 
